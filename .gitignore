@@ -1,0 +1,7 @@
+*.log
+*.db
+*.png
+TelegramChatBot
+keys.py
+.idea
+__pycache__
